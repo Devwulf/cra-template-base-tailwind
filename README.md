@@ -8,5 +8,5 @@ To use and setup, run these commands:
     
     cd my-cool-app
 
-    npm setup
+    npm run setup
 
